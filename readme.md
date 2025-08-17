@@ -38,7 +38,7 @@ A simple and functional Bookstore Management System built with PHP and MySQL. Th
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/bookstore-management.git
+   git clone https://github.com/Priyanshu-2025/bookstore-management.git
    ```
 2. **Import the Database**
 - Create a MySQL database named bms
